@@ -1,4 +1,4 @@
 # AAD-System
-Alzheimer's Aided Diagnosis System
+Aided Alzheimer's Diagnosis System
 
 the code is under pygcn
